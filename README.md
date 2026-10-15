@@ -8,7 +8,17 @@ Cetrinw 是基于 Tauri、React 和 Rust 构建的桌面应用。你可以离线
 
 > 当前版本：**0.1.0 · macOS 桌面预览版**。目前以 Apple Silicon Mac 为开发和验证平台，仍在持续迭代。Windows、Linux、Android、iPhone 和 iPad 尚未验证或交付。
 
-[快速开始](#快速开始) · [功能概览](#功能概览) · [开发与验证](#开发与验证) · [已知限制](#已知限制) · [自部署说明](docs/self-hosting.md)
+[下载安装](#下载安装) · [快速开始](#快速开始) · [功能概览](#功能概览) · [开发与验证](#开发与验证) · [已知限制](#已知限制) · [自部署说明](docs/self-hosting.md)
+
+## 下载安装
+
+前往 [GitHub Releases · v0.1.0](https://github.com/cetrinw/cetrinw-notes/releases/tag/v0.1.0) 下载 **macOS Apple Silicon（M 系列芯片）** 预览版，要求 macOS 13 或更新版本。
+
+- `Cetrinw_0.1.0_aarch64.dmg`：打开后将 Cetrinw 拖入“应用程序”。
+- `Cetrinw_0.1.0_aarch64.app.zip`：解压后得到同一版本的 `.app`。
+- `SHA256SUMS`：安装包校验值，下载后可运行 `shasum -a 256 -c SHA256SUMS` 核对同目录中的两个安装包。
+
+安装包使用 ad-hoc 签名，尚未通过 Apple Developer ID 签名与公证。macOS 可能提示无法验证开发者；确认文件来自本仓库后，可使用系统“隐私与安全性”中的“仍要打开”。升级前建议在应用内导出完整备份。功能范围、已知问题和验证边界见 [发布说明](docs/releases/v0.1.0.md)。
 
 ## 可以用它做什么
 
