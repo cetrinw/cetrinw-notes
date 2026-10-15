@@ -1,0 +1,28 @@
+[package]
+name = "cetrinw"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[lib]
+name = "cetrinw_app"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+cetrinw-core = { path = "../crates/core" }
+cetrinw-learning = { path = "../crates/learning" }
+cetrinw-cloud = { path = "../crates/cloud" }
+cetrinw-translate = { path = "../crates/translate" }
+tauri = { version = "2", features = ["protocol-asset"] }
+tauri-plugin-opener = "2"
+tauri-plugin-dialog = "2"
+serde.workspace = true
+serde_json.workspace = true
+base64.workspace = true
+reqwest = { version = "0.12", default-features = false, features = ["json", "rustls-tls"] }
+
+[target.'cfg(target_os = "macos")'.dependencies]
+security-framework = "3"

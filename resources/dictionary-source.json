@@ -1,0 +1,7 @@
+{
+  "source": "https://raw.githubusercontent.com/skywind3000/ECDICT/master/ecdict.csv",
+  "license": "MIT",
+  "source_sha256": "9f1569d989546cc7cc058221a039fbbde1e0cfca602a7f51ad2494b4c529d5a4",
+  "entries": 30066,
+  "selection": "BNC or FRQ rank <= 25000, or Oxford/Collins marked"
+}

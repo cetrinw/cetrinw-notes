@@ -1,0 +1,2 @@
+akshare>=1.17,<2
+tushare>=1.4,<2

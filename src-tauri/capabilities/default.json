@@ -1,0 +1,6 @@
+{
+  "identifier": "default",
+  "description": "Local Cetrinw window",
+  "windows": ["main"],
+  "permissions": ["core:default", "opener:default", "dialog:allow-save", "core:window:allow-close"]
+}

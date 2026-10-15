@@ -1,0 +1,41 @@
+{
+  "indices": [
+    { "label": "上证指数", "symbol": "sh000001", "market": "CN", "kind": "index", "unit": "点", "verified": "8740 行 · 1990-12-19 起" },
+    { "label": "深证成指", "symbol": "sz399001", "market": "CN", "kind": "index", "unit": "点", "verified": "8648 行 · 1991-04-03 起" },
+    { "label": "创业板指", "symbol": "sz399006", "market": "CN", "kind": "index", "unit": "点", "verified": "3972 行 · 2010-06-01 起" },
+    { "label": "沪深300", "symbol": "sh000300", "market": "CN", "kind": "index", "unit": "点", "verified": "6007 行 · 2002-01-04 起" },
+    { "label": "中证500", "symbol": "sh000905", "market": "CN", "kind": "index", "unit": "点", "verified": "5286 行 · 2005-01-04 起" },
+    { "label": "上证50", "symbol": "sh000016", "market": "CN", "kind": "index", "unit": "点", "verified": "5529 行 · 2004-01-02 起" },
+    { "label": "科创50", "symbol": "sh000688", "market": "CN", "kind": "index", "unit": "点", "verified": "1640 行 · 2020-01-02 起" },
+    { "label": "中小100", "symbol": "sz399005", "market": "CN", "kind": "index", "unit": "点", "verified": "4442 行 · 2008-06-30 起" },
+    { "label": "标普500", "symbol": ".INX", "market": "US", "kind": "index", "unit": "点", "verified": "5734 行 · 2004-01-02 起" },
+    { "label": "道琼斯工业", "symbol": ".DJI", "market": "US", "kind": "index", "unit": "点", "verified": "5733 行 · 2004-01-02 起" },
+    { "label": "纳斯达克综合", "symbol": ".IXIC", "market": "US", "kind": "index", "unit": "点", "verified": "5731 行 · 2004-01-02 起" },
+    { "label": "纳斯达克100", "symbol": ".NDX", "market": "US", "kind": "index", "unit": "点", "verified": "3182 行 · 2014-02-18 起" },
+    { "label": "恒生指数", "symbol": "HSI", "market": "HK", "kind": "index", "unit": "点", "verified": "3236 行 · 2013-08-20 起" }
+  ],
+  "fred": [
+    { "label": "美国 · 联邦基金利率", "series_id": "FEDFUNDS", "unit": "%" },
+    { "label": "美国 · 10 年期国债收益率", "series_id": "DGS10", "unit": "%" },
+    { "label": "美国 · CPI 消费者物价指数", "series_id": "CPIAUCSL", "unit": "指数" },
+    { "label": "美国 · 核心 CPI", "series_id": "CPILFESL", "unit": "指数" },
+    { "label": "美国 · 失业率", "series_id": "UNRATE", "unit": "%" },
+    { "label": "美国 · 工业生产指数", "series_id": "INDPRO", "unit": "指数" },
+    { "label": "美国 · 实际 GDP", "series_id": "GDPC1", "unit": "十亿美元" },
+    { "label": "美国 · PCE 物价指数", "series_id": "PCEPI", "unit": "指数" },
+    { "label": "美国 · 新建住宅开工", "series_id": "HOUST", "unit": "千套" },
+    { "label": "美国 · 库存销售比", "series_id": "ISRATIO", "unit": "比值" }
+  ],
+  "worldbank": [
+    { "label": "中国 · GDP（现价美元）", "country": "CHN", "indicator": "NY.GDP.MKTP.CD", "unit": "现价美元" },
+    { "label": "中国 · GDP 增速", "country": "CHN", "indicator": "NY.GDP.MKTP.KD.ZG", "unit": "%" },
+    { "label": "中国 · 人均 GDP", "country": "CHN", "indicator": "NY.GDP.PCAP.CD", "unit": "现价美元" },
+    { "label": "中国 · CPI 通胀", "country": "CHN", "indicator": "FP.CPI.TOTL.ZG", "unit": "%" },
+    { "label": "中国 · 出口额", "country": "CHN", "indicator": "NE.EXP.GNFS.CD", "unit": "现价美元" },
+    { "label": "中国 · 工业增加值", "country": "CHN", "indicator": "NV.IND.TOTL.CD", "unit": "现价美元" },
+    { "label": "中国 · 研发支出占 GDP", "country": "CHN", "indicator": "GB.XPD.RSDV.GD.ZS", "unit": "%" },
+    { "label": "美国 · GDP（现价美元）", "country": "USA", "indicator": "NY.GDP.MKTP.CD", "unit": "现价美元" },
+    { "label": "全球 · 货物贸易占 GDP", "country": "WLD", "indicator": "TG.VAL.TOTL.GD.ZS", "unit": "% of GDP" },
+    { "label": "全球 · 能源使用人均量", "country": "WLD", "indicator": "EG.USE.PCAP.KG.OE", "unit": "千克油当量" }
+  ]
+}

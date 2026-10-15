@@ -1,0 +1,954 @@
+{
+  "collections": [
+    {
+      "id": "voa",
+      "name": "VOA · 入门英语",
+      "description": "Level 1 完整 52 课",
+      "count": 52,
+      "sourceUrl": "https://learningenglish.voanews.com/p/5644.html"
+    },
+    {
+      "id": "elllo",
+      "name": "ELLLO · 场景与语法",
+      "description": "A1 完整 25 课，每课多段对话",
+      "count": 25,
+      "sourceUrl": "https://elllo.org/book/A1/index.html"
+    }
+  ],
+  "courses": [
+    {
+      "id": "voa-level1-1",
+      "number": 1,
+      "title": "Lesson 1: Welcome!",
+      "description": "见面打招呼",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-one/3111026.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-2",
+      "number": 2,
+      "title": "Lesson 2: Hello, I'm Anna!",
+      "description": "介绍自己",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-2-hello/3113733.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-3",
+      "number": 3,
+      "title": "Lesson 3: I'm Here!",
+      "description": "确认地点",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-3-i-am-here/3126527.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-4",
+      "number": 4,
+      "title": "Lesson 4: What Is It?",
+      "description": "询问物品",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-4/3168920.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-5",
+      "number": 5,
+      "title": "Lesson 5: Where Are You?",
+      "description": "询问位置",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-5-where-are-you/3168971.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-6",
+      "number": 6,
+      "title": "Lesson 6: Where Is the Gym?",
+      "description": "问路与设施",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-6-where-is-the-gym/3225958.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-7",
+      "number": 7,
+      "title": "Lesson 7: What Are You Doing?",
+      "description": "描述正在做的事",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-7-what-are-you-doing/3240468.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-8",
+      "number": 8,
+      "title": "Lesson 8: Are You Busy?",
+      "description": "询问是否有空",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-8-are-you-busy/3253185.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-9",
+      "number": 9,
+      "title": "Lesson 9: Is It Cold?",
+      "description": "谈论天气",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-9-is-it-cold/3261789.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-10",
+      "number": 10,
+      "title": "Lesson 10: Come Over to My Place",
+      "description": "邀请朋友来家里",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-10/3285228.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-11",
+      "number": 11,
+      "title": "Lesson 11: This Is My Neighborhood",
+      "description": "介绍社区",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-11-this-is-my-neighborhood/3293986.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-12",
+      "number": 12,
+      "title": "Lesson 12: Meet My Family",
+      "description": "介绍家庭",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-12-meet-my-family/3301733.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-13",
+      "number": 13,
+      "title": "Lesson 13: Happy Birthday, William Shakespeare!",
+      "description": "Happy Birthday, William Shakespeare!",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-13-happy-birthday-william-shakespeare/3312239.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-14",
+      "number": 14,
+      "title": "Lesson 14: How About This?",
+      "description": "How About This?",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-14-how-about-this/3323771.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-15",
+      "number": 15,
+      "title": "Lesson 15: I Love People-Watching!",
+      "description": "I Love People-Watching!",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-15-i-love-people-watching/3343720.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-16",
+      "number": 16,
+      "title": "Lesson 16: Where Are You From?",
+      "description": "Where Are You From?",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-16-where-are-you-from/3355849.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-17",
+      "number": 17,
+      "title": "Lesson 17: Are You Free on Friday?",
+      "description": "Are You Free on Friday?",
+      "sourceUrl": "https://learningenglish.voanews.com/a/are-you-free-on-friday-lets-learn-english/3355785.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-18",
+      "number": 18,
+      "title": "Lesson 18: She Always Does That",
+      "description": "She Always Does That",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-18-she-always-does-that/3357748.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-19",
+      "number": 19,
+      "title": "Lesson 19: When Do I Start?",
+      "description": "When Do I Start?",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-19-when-do-you-start/3357760.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-20",
+      "number": 20,
+      "title": "Lesson 20: What Can You Do?",
+      "description": "What Can You Do?",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-20-what-can-you-do/3384429.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-21",
+      "number": 21,
+      "title": "Lesson 21: Can You Come to the Party?",
+      "description": "Can You Come to the Party?",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-21-can-you-come-to-the-party/3406732.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-22",
+      "number": 22,
+      "title": "Lesson 22: Next Summer...",
+      "description": "Next Summer...",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-22/3397314.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-23",
+      "number": 23,
+      "title": "Lesson 23: What Do You Want?",
+      "description": "What Do You Want?",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-23-what-do-you-want/3413753.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-24",
+      "number": 24,
+      "title": "Lesson 24: Yesterday Was Amazing!",
+      "description": "Yesterday Was Amazing!",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-24-yesterday-was-amazing/3439164.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-25",
+      "number": 25,
+      "title": "Lesson 25: Watch Out!",
+      "description": "Watch Out!",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-25-watch-out/3431138.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-26",
+      "number": 26,
+      "title": "Lesson 26: This Game Is Fun!",
+      "description": "This Game Is Fun!",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-26-this-game-is-fun/3457248.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-27",
+      "number": 27,
+      "title": "Lesson 27: I Can't Come In",
+      "description": "I Can't Come In",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-27-i-cant-come-in/3457316.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-28",
+      "number": 28,
+      "title": "Lesson 28: I Passed It!",
+      "description": "I Passed It!",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-28-i-passed-it/3487865.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-29",
+      "number": 29,
+      "title": "Lesson 29: A Long Time Ago",
+      "description": "A Long Time Ago",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-29-a-long-time-ago/3509519.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-30",
+      "number": 30,
+      "title": "Lesson 30: Rolling on the River",
+      "description": "Rolling on the River",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-30-rolling-river/3522798.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-31",
+      "number": 31,
+      "title": "Lesson 31: Take Me Out to the Ball Game",
+      "description": "Take Me Out to the Ball Game",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-31-take-me-out-to-the-ball-game/3535235.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-32",
+      "number": 32,
+      "title": "Lesson 32: Welcome to the Treehouse!",
+      "description": "Welcome to the Treehouse!",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-32-welcome-treehouse/3547306.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-33",
+      "number": 33,
+      "title": "Lesson 33: Learning America's Sport",
+      "description": "Learning America's Sport",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lesson-33-learning-americas-sport/3555047.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-34",
+      "number": 34,
+      "title": "Lesson 34: What Will I Do?",
+      "description": "What Will I Do?",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-34-what-will-i-do/3566043.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-35",
+      "number": 35,
+      "title": "Lesson 35: Let’s Make Dinner!",
+      "description": "Let’s Make Dinner!",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-35-lets-make-dinner/3571922.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-36",
+      "number": 36,
+      "title": "Lesson 36: I Can Fix This!",
+      "description": "I Can Fix This!",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-36-i-can-fix-this/3568962.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-37",
+      "number": 37,
+      "title": "Lesson 37: Let's Agree to Disagree",
+      "description": "Let's Agree to Disagree",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-37-lets-agree-to-disagree/3574029.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-38",
+      "number": 38,
+      "title": "Lesson 38: She's My Best Friend!",
+      "description": "She's My Best Friend!",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-38-shes-my-best-friend/3591967.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-39",
+      "number": 39,
+      "title": "Lesson 39: It’s Unbelievable!",
+      "description": "It’s Unbelievable!",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-39-its-unbelieveable/3598920.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-40",
+      "number": 40,
+      "title": "Lesson 40: The Woods Are Alive",
+      "description": "The Woods Are Alive",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-40-the-woods-are-alive/3630341.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-41",
+      "number": 41,
+      "title": "Lesson 41: Teamwork Works Best With a Team",
+      "description": "Teamwork Works Best With a Team",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-41-teamwork/3635015.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-42",
+      "number": 42,
+      "title": "Lesson 42: I Was Minding My Own Business",
+      "description": "I Was Minding My Own Business",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-42-i-was-minding-my-own-business/3647264.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-43",
+      "number": 43,
+      "title": "Lesson 43: Time for Plan B",
+      "description": "Time for Plan B",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-43-time-for-plan-b/3666458.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-44",
+      "number": 44,
+      "title": "Lesson 44: Making Healthy Choices",
+      "description": "Making Healthy Choices",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-44-making-healthy-choices/3688552.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-45",
+      "number": 45,
+      "title": "Lesson 45: This Land is Your Land",
+      "description": "This Land is Your Land",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lesson-45-this-land-is-your-land/3710209.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-46",
+      "number": 46,
+      "title": "Lesson 46: May I Borrow That?",
+      "description": "May I Borrow That?",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-46-may-i-borrow-that/3723588.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-47",
+      "number": 47,
+      "title": "Lesson 47: How Can I Help?",
+      "description": "How Can I Help?",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-47-how-can-i-help/3737352.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-48",
+      "number": 48,
+      "title": "Lesson 48: Have You Ever ...?",
+      "description": "Have You Ever ...?",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-48-have-you-ever/3753664.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-49",
+      "number": 49,
+      "title": "Lesson 49: Operation Spy!",
+      "description": "Operation Spy!",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-49-operation-spy/3763537.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-50",
+      "number": 50,
+      "title": "Lesson 50: Back to School",
+      "description": "Back to School",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-50-back-to-school/3771173.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-51",
+      "number": 51,
+      "title": "Lesson 51: A Good Habit",
+      "description": "A Good Habit",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-51-a-good-habit/3773577.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "voa-level1-52",
+      "number": 52,
+      "title": "Lesson 52: Taking Chances",
+      "description": "Taking Chances",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-52-taking-chances/3805454.html",
+      "collection": "voa",
+      "provider": "VOA Learning English",
+      "license": "VOA 原创对话 · 公共领域（见来源条款）",
+      "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+    },
+    {
+      "id": "elllo-a1-1",
+      "number": 1,
+      "title": "Be Verbs - Introductions",
+      "description": "介绍自己",
+      "sourceUrl": "https://elllo.org/book/A1/A1-01-Be-Verbs-Introductions.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-2",
+      "number": 2,
+      "title": "Yes / No Questions - Be Verbs",
+      "description": "一般疑问句",
+      "sourceUrl": "https://elllo.org/book/A1/A1-02-Be-Yes-No-Questions.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-3",
+      "number": 3,
+      "title": "Likes and Dislikes",
+      "description": "喜欢与不喜欢",
+      "sourceUrl": "https://elllo.org/book/A1/A1-03-Likes-Food.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-4",
+      "number": 4,
+      "title": "Verbs - Present Simple",
+      "description": "日常动作",
+      "sourceUrl": "https://elllo.org/book/A1/A1-04-Verbs.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-5",
+      "number": 5,
+      "title": "Yes / No Questions with Verbs",
+      "description": "询问日常习惯",
+      "sourceUrl": "https://elllo.org/book/A1/A1-05-Verb-Yes-No-Questions.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-6",
+      "number": 6,
+      "title": "Third Person Singular",
+      "description": "第三人称",
+      "sourceUrl": "https://elllo.org/book/A1/A1-06-Verbs-Third-Person-Singular.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-7",
+      "number": 7,
+      "title": "Adjectives",
+      "description": "形容词",
+      "sourceUrl": "https://elllo.org/book/A1/A1-07-Adjectives.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-8",
+      "number": 8,
+      "title": "Days of the Week",
+      "description": "星期几",
+      "sourceUrl": "https://elllo.org/book/A1/A1-08-Days-of-Week.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-9",
+      "number": 9,
+      "title": "Subject Pronouns",
+      "description": "人称代词",
+      "sourceUrl": "https://elllo.org/book/A1/A1-09-Subject-Pronouns.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-10",
+      "number": 10,
+      "title": "Object Pronouns",
+      "description": "宾格代词",
+      "sourceUrl": "https://elllo.org/book/A1/A1-10-Object-Pronouns.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-11",
+      "number": 11,
+      "title": "Demonstrative Adjectives",
+      "description": "指示形容词",
+      "sourceUrl": "https://elllo.org/book/A1/A1-11-Demonstratives.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-12",
+      "number": 12,
+      "title": "Demonstrative Pronouns",
+      "description": "这个与那个",
+      "sourceUrl": "https://elllo.org/book/A1/A1-12-Demonstratives-Pronouns.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-13",
+      "number": 13,
+      "title": "Months",
+      "description": "月份",
+      "sourceUrl": "https://elllo.org/book/A1/A1-13-Months.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-14",
+      "number": 14,
+      "title": "Ordinals",
+      "description": "序数词",
+      "sourceUrl": "https://elllo.org/book/A1/A1-14-Ordinals.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-15",
+      "number": 15,
+      "title": "Telling Time",
+      "description": "问时间",
+      "sourceUrl": "https://elllo.org/book/A1/A1-15-Telling-Time.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-16",
+      "number": 16,
+      "title": "Prepositions",
+      "description": "介词与方位",
+      "sourceUrl": "https://elllo.org/book/A1/A1-16-Prepositions.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-17",
+      "number": 17,
+      "title": "Possessives",
+      "description": "所属关系",
+      "sourceUrl": "https://elllo.org/book/A1/A1-17-Possessives.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-18",
+      "number": 18,
+      "title": "Languages and Nationalities",
+      "description": "语言与国籍",
+      "sourceUrl": "https://elllo.org/book/A1/A1-18-Nationalities.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-19",
+      "number": 19,
+      "title": "Can - Abilities",
+      "description": "表达能力",
+      "sourceUrl": "https://elllo.org/book/A1/A1-19-Can-Abilities.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-20",
+      "number": 20,
+      "title": "Adverbs of Frequency",
+      "description": "频率",
+      "sourceUrl": "https://elllo.org/book/A1/A1-20-Adverbs-Frequency.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-21",
+      "number": 21,
+      "title": "There is / There are",
+      "description": "描述存在",
+      "sourceUrl": "https://elllo.org/book/A1/A1-21-There-is-There-are.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-22",
+      "number": 22,
+      "title": "Was / Were",
+      "description": "过去的状态",
+      "sourceUrl": "https://elllo.org/book/A1/A1-22-Was-Were.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-23",
+      "number": 23,
+      "title": "Past Tense",
+      "description": "过去的动作",
+      "sourceUrl": "https://elllo.org/book/A1/A1-23-Past-Tense.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-24",
+      "number": 24,
+      "title": "Articles",
+      "description": "冠词",
+      "sourceUrl": "https://elllo.org/book/A1/A1-24-Articles.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    },
+    {
+      "id": "elllo-a1-25",
+      "number": 25,
+      "title": "Any / Some",
+      "description": "一些与任何",
+      "sourceUrl": "https://elllo.org/book/A1/A1-25-Any-Some.html",
+      "collection": "elllo",
+      "provider": "ELLLO",
+      "license": "ELLLO · 免费个人学习，版权归原作者",
+      "licenseUrl": "https://elllo.org/about/index.htm"
+    }
+  ],
+  "libraries": [
+    {
+      "name": "ESL Fast · 生活英语",
+      "description": "按生活、交通、餐厅、旅行、工作等 15 类整理的短对话；到官网选择材料，下载后可导入。",
+      "sourceUrl": "https://www.eslfast.com/easydialogs/",
+      "category": "日常对话"
+    },
+    {
+      "name": "ELLLO · 全级别资料库",
+      "description": "A1–C1 分级：自然对话、短视频、语法和练习 PDF，适合从入门逐步提高。",
+      "sourceUrl": "https://elllo.org/archive/index.html",
+      "category": "分级听力"
+    },
+    {
+      "name": "VOA · 更多栏目",
+      "description": "Let's Learn English Level 2、Everyday Grammar、News Words 等栏目；页面结构与已收录课程相同，可按课导入。",
+      "sourceUrl": "https://learningenglish.voanews.com/p/5644.html",
+      "category": "分级课程"
+    },
+    {
+      "name": "VOA · 慢速英语新闻",
+      "description": "每日新闻，语速慢、附全文；适合精读与听力结合。可在订阅收件箱订阅其 RSS。",
+      "sourceUrl": "https://learningenglish.voanews.com/",
+      "category": "新闻英语"
+    },
+    {
+      "name": "BBC Learning English",
+      "description": "英式英语课程与音频栏目，含 6 Minute English 等播客；从官网选择材料下载后导入。",
+      "sourceUrl": "https://www.bbc.co.uk/learningenglish/",
+      "category": "英式英语"
+    },
+    {
+      "name": "BBC · 6 Minute English",
+      "description": "每期六分钟的话题听力，附逐字稿；适合每日一篇。",
+      "sourceUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english",
+      "category": "英式英语"
+    },
+    {
+      "name": "British Council · Podcasts",
+      "description": "英式英语播客，附课文和练习。前往官网查看当前可下载资源。",
+      "sourceUrl": "https://learnenglish.britishcouncil.org/general-english/audio-series/podcasts",
+      "category": "英式英语"
+    },
+    {
+      "name": "CNN 10",
+      "description": "每天十分钟的新闻视频，附字幕；适合中高级学习者。",
+      "sourceUrl": "https://edition.cnn.com/cnn10",
+      "category": "新闻英语"
+    },
+    {
+      "name": "TED Talks",
+      "description": "各领域演讲，多数附多语言字幕；用于泛听与精听结合。",
+      "sourceUrl": "https://www.ted.com/talks",
+      "category": "演讲听力"
+    },
+    {
+      "name": "Storynory · 儿童故事",
+      "description": "免费有声故事，附文本；适合初级到中级过渡。",
+      "sourceUrl": "https://www.storynory.com/",
+      "category": "故事与有声书"
+    },
+    {
+      "name": "LibriVox · 英文有声书",
+      "description": "公共领域作品的志愿者朗读。适合进阶长篇听力；完整作品从官网下载。",
+      "sourceUrl": "https://librivox.org/",
+      "category": "故事与有声书"
+    },
+    {
+      "name": "EnglishClub · 语法与测验",
+      "description": "语法讲解与在线测验，用于搭配课程做练习。",
+      "sourceUrl": "https://www.englishclub.com/learn-english/",
+      "category": "练习材料"
+    },
+    {
+      "name": "ManyThings · 词汇与测验",
+      "description": "词汇表、听写与拼写测验材料，可打印练习。",
+      "sourceUrl": "https://www.manythings.org/",
+      "category": "练习材料"
+    },
+    {
+      "name": "剑桥词典 · 学习专栏",
+      "description": "语法与词汇讲解、常见错误说明；配合本地词典使用。",
+      "sourceUrl": "https://dictionary.cambridge.org/grammar-vocabulary/",
+      "category": "练习材料"
+    }
+  ],
+  "checkedAt": "2026-10-10"
+}

@@ -1,0 +1,16 @@
+node_modules/
+dist/
+target/
+.data/
+.env
+.env.*
+!.env.example
+output/
+.DS_Store
+src-tauri/gen/
+__pycache__/
+.venv/
+*.log
+.playwright-cli/
+*.tsbuildinfo
+.claude

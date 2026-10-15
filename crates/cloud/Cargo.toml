@@ -1,0 +1,18 @@
+[package]
+name = "cetrinw-cloud"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+anyhow.workspace = true
+serde_json.workspace = true
+chrono.workspace = true
+uuid.workspace = true
+reqwest = { version = "0.12", default-features = false, features = ["rustls-tls", "stream"] }
+roxmltree = "0.20"
+
+[dev-dependencies]
+tokio = {version="1",features=["full"]}
+cetrinw-core = {path="../core"}
+tempfile = "3"

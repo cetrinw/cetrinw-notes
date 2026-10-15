@@ -1,0 +1,20 @@
+[package]
+name = "cetrinw-translate"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+anyhow.workspace = true
+serde_json.workspace = true
+reqwest = { version = "0.12", default-features = false, features = ["rustls-tls", "stream"] }
+tokio = { version = "1", features = ["fs", "io-util"] }
+
+# The ONNX decode loop (spike pending) is feature-gated so the default build
+# stays small: enabling `onnx` pulls the runtime and tokenizer crates.
+ort = { version = "2.0.0-rc.10", optional = true }
+tokenizers = { version = "0.20", optional = true }
+
+[features]
+default = []
+onnx = ["dep:ort", "dep:tokenizers"]
